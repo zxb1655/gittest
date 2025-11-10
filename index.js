@@ -4,3 +4,4 @@
 修改index.js文件内容-3
 index-4
 index-5
+index-6
